@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACCA,OAAO,CAAC,wEAAI,CACZ,OAAO,CAAC,+EAAI,CDAZ,AAAA,IAAI,AAAA,CACA,gBAAgB,CCCR,OAAiB,CDAzB,KAAK,CCGD,IAAgB,CDFpB,WAAW,CCMF,OAAO,CAAE,UAAU,CDL/B,AACD,AAAA,EAAE,AAAA,CACE,WAAW,CCIF,aAAa,CAAE,UAAU,CDHrC",
+    "sources": [
+        "../../scss/style.scss",
+        "../../scss/variables.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
